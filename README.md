@@ -22,16 +22,16 @@ Spring, java, node.js, Mysql, Oracle, mongodb
 Javascript, HTML/CSS, react
 
 ### Etc
-aws ec2
+aws ec2, pug, 
 
 
 ### Projects
 ---------------------------------
 ### 2019
 - [실무] 4월에 출시될 회사 대형프로젝트 사랑모아앱과 ERP의 연동 핵심부분 구축
-- [토이] 유튜브와 비슷하게 구현한 토이프로젝트
-- [토이] 리액트를 사용한 영화소개 웹사이트
-- [토이] 리액트네이티브를 사용한 영화소개 앱
+- [토이] 유튜브와 비슷하게 구현한 토이프로젝트 [사이트바로가기](ec2-13-125-110-124.ap-northeast-2.compute.amazonaws.com)
+- [토이] 리액트를 사용한 영화소개 웹사이트 [사이트바로가기](https://condescending-noyce-c99076.netlify.com/#/)
+- [토이] 리액트네이티브를 사용한 영화소개 앱 [구글스토어바로가기](https://play.google.com/store/apps/details?id=com.kohubi.movie)
 
 ### 2018
 - [실무] 사랑모아 금융서비스 전산개발팀으로 사내 고객몰(쇼핑몰) 구축
