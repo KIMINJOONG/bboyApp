@@ -27,8 +27,9 @@ aws ec2, pug,
 ### Projects
 ---------------------------------
 ### 2019
+- [토이] (front: react next, back: express framework, mongoDB) my-blog프로젝트 [사이트바로가기](https://test.kohubi.me)
 - [실무] (Spring,MySql)4월에 출시될 회사 대형프로젝트 사랑모아앱과 ERP의 연동 핵심부분 구축
-- [토이] (node.js, mongodb)유튜브와 비슷하게 구현한 프로젝트 [사이트바로가기](http://ec2-13-125-110-124.ap-northeast-2.compute.amazonaws.com)
+- [토이] (node.js, mongodb)유튜브와 비슷하게 구현한 프로젝트 [사이트바로가기](https://test.kohubi.me/)
 - [토이] (react, movieApi)영화소개 웹사이트 [사이트바로가기](https://condescending-noyce-c99076.netlify.com/#/)
 - [토이] (react-native, movieApi)영화소개 앱 [구글스토어바로가기](https://play.google.com/store/apps/details?id=com.kohubi.movie)
 - [토이] (vue cli 3.0, vuex, movieApi)영화소개 웹사이트 vue로 제작 [사이트바로가기](https://sleepy-curie-460b86.netlify.com/)
