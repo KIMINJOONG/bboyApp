@@ -27,7 +27,7 @@ aws ec2, pug,
 ### Projects
 ---------------------------------
 ### 2019 - 2020
-- [실무] (java spring boot, mybatis, mariaDB)해외명품api와 각 쇼핑몰간연동을 시켜주는 중간플랫폼 유지보수 및 개발
+- [실무] (java spring boot, mybatis, mariaDB)해외명품api와 각 쇼핑몰간연동을 시켜주는 사내  유지보수 및 개발
 - [실무] (php)JetLuxury 쇼핑몰 개발
 - [토이] (nodejs, expressjs, react next js, sequlize) 리액트 노드버드 [깃허브사이트](https://github.com/KIMINJOONG/react-nodebird)
 - [토이] (nodejs, react hook, graphql)인스타그램 클론코딩 [깃허브사이트](https://github.com/KIMINJOONG/prismagram)
