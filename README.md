@@ -26,10 +26,14 @@ aws ec2, pug,
 
 ### Projects
 ---------------------------------
-### 2019
-- [토이] (front: react next, back: express framework, mongoDB) my-blog프로젝트 [사이트바로가기](https://test.kohubi.me)
+### 2019 - 2020
+- [실무] (java spring boot, mybatis, mariaDB)해외명품api와 각 쇼핑몰간연동을 시켜주는 중간플랫폼 유지보수 및 개발
+- [실무] (php)JetLuxury 쇼핑몰 개발
+- [토이] (nodejs, expressjs, react next js, sequlize) 리액트 노드버드 [깃허브사이트](https://github.com/KIMINJOONG/react-nodebird)
+- [토이] (nodejs, react hook, graphql)인스타그램 클론코딩 [깃허브사이트](https://github.com/KIMINJOONG/prismagram)
+- [토이] (front: react next, back: express framework, mongoDB) my-blog프로젝트 [사이트바로가기](https://kohubi.me)
 - [실무] (Spring,MySql)4월에 출시될 회사 대형프로젝트 사랑모아앱과 ERP의 연동 핵심부분 구축
-- [토이] (node.js, mongodb)유튜브와 비슷하게 구현한 프로젝트 [사이트바로가기](https://test.kohubi.me/)
+- [토이] (node.js, mongodb)유튜브와 비슷하게 구현한 프로젝트 [깃허브사이트](https://github.com/KIMINJOONG/wetube)
 - [토이] (react, movieApi)영화소개 웹사이트 [사이트바로가기](https://condescending-noyce-c99076.netlify.com/#/)
 - [토이] (react-native, movieApi)영화소개 앱 [구글스토어바로가기](https://play.google.com/store/apps/details?id=com.kohubi.movie)
 - [토이] (vue cli 3.0, vuex, movieApi)영화소개 웹사이트 vue로 제작 [사이트바로가기](https://sleepy-curie-460b86.netlify.com/)
